@@ -1,0 +1,9 @@
+[submodule "abacusproject"]
+	path = abacusproject
+	url = ./abacusproject
+[submodule "websiteFront"]
+	path = websiteFront
+	url = ./websiteFront
+[submodule "backendDocker"]
+	path = backendDocker
+	url = ./backendDocker

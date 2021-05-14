@@ -1,0 +1,8 @@
+{
+    "restructuredtext.languageServer.disabled": true,
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    }
+}
